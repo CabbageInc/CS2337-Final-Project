@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/memo4/Development/CS2337_Projects/Fall2023/Project3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/project.dir/includes_CXX.rsp -g -Wall -Werror -Wextra -Wuninitialized -pedantic-errors -Wconversion -o CMakeFiles\\project.dir\\src\\Main.cpp.obj -c C:\\Users\\memo4\\Development\\CS2337_Projects\\Fall2023\\Project3\\src\\Main.cpp",
+  "file": "C:/Users/memo4/Development/CS2337_Projects/Fall2023/Project3/src/Main.cpp",
+  "output": "CMakeFiles/project.dir/src/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/memo4/Development/CS2337_Projects/Fall2023/Project3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/project.dir/includes_CXX.rsp -g -Wall -Werror -Wextra -Wuninitialized -pedantic-errors -Wconversion -o CMakeFiles\\project.dir\\src\\DVD.cpp.obj -c C:\\Users\\memo4\\Development\\CS2337_Projects\\Fall2023\\Project3\\src\\DVD.cpp",
+  "file": "C:/Users/memo4/Development/CS2337_Projects/Fall2023/Project3/src/DVD.cpp",
+  "output": "CMakeFiles/project.dir/src/DVD.cpp.obj"
+},
+{
+  "directory": "C:/Users/memo4/Development/CS2337_Projects/Fall2023/Project3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/project.dir/includes_CXX.rsp -g -Wall -Werror -Wextra -Wuninitialized -pedantic-errors -Wconversion -o CMakeFiles\\project.dir\\src\\Inventory.cpp.obj -c C:\\Users\\memo4\\Development\\CS2337_Projects\\Fall2023\\Project3\\src\\Inventory.cpp",
+  "file": "C:/Users/memo4/Development/CS2337_Projects/Fall2023/Project3/src/Inventory.cpp",
+  "output": "CMakeFiles/project.dir/src/Inventory.cpp.obj"
+}
+]

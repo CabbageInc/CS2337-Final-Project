@@ -1,0 +1,11 @@
+rent "Rudy"
+add "Rudy",2
+return "Doctor Strange"
+return "Rudy"
+remove "Captain America: Civil War",2
+add "Ready Player One",5
+rent "Ready Player One"
+remove "Ready Player One",3
+return "Ready Player One"
+add "Vinland Saga",2
+remove "Vinland Saga",2
